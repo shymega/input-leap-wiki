@@ -22,5 +22,4 @@ There is quite a bit to be added to our wiki here on GitHub. As time permits and
 ### Distro-Specific Linux Pacakges
 [ArchLinux AUR](https://aur.archlinux.org/packages/barrier/) (maintainer: [Tblue](https://github.com/Tblue))
 
-
 _We are expecting to have RPM and DEB packages shortly. Stay tuned!_
